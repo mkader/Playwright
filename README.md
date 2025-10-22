@@ -1,4 +1,7 @@
-# VSC Setup for Playwright MCP
+https://www.youtube.com/@Playwrightdev
+
+
+## VSC Setup for Playwright MCP
 
 1. Create a prompt file (\playwright_mcp\.github\prompts\generate.prompt.md)
 ```
@@ -33,3 +36,6 @@
         2. Search for 'Garfield'
         3. Verify that the movie appears in the list
 ```
+4. Follow the instructions
+![alt text](1.vsc_setup_playwright_mcp.png)
+--------------------------
