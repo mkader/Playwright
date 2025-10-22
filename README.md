@@ -37,5 +37,6 @@ https://www.youtube.com/@Playwrightdev
         3. Verify that the movie appears in the list
 ```
 4. Follow the instructions
+   
 ![alt text](1.vsc_setup_playwright_mcp.png)
 --------------------------
